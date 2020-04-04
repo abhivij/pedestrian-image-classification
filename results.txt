@@ -1,0 +1,88 @@
+----Test with flattened grayscale images----
+(72114, 5120)
+(72114,)
+(9457, 5120)
+(9457,)
+(8000, 5120)
+(8000,)
+(2000, 5120)
+(2000,)
+2432
+737
+SVM Trained in 135.569392921 seconds
+SVM Prediction time : 59.064486367 seconds
+Accuracy : 0.913
+AUC : 0.9734549021250904
+Confusion Matrix : [[1208   55]
+ [ 119  618]]
+KNN Trained in 3.298156600999988 seconds
+KNN Prediction time : 246.07264455399996 seconds
+Accuracy : 0.6575
+AUC : 0.63937008973702
+----Test with HOG features (2, 2) cells per block----
+(72114, 80, 64, 3)
+(72114,)
+(9457, 80, 64, 3)
+(9457,)
+(8000, 3780)
+(8000,)
+(2000, 3780)
+(2000,)
+2432
+737
+SVM Trained in 48.521305829000084 seconds
+SVM Prediction time : 22.953139781999994 seconds
+Accuracy : 0.9895
+AUC : 0.9994402850786018
+Confusion Matrix : [[1255    8]
+ [  13  724]]
+KNN Trained in 1.2118194219999623 seconds
+KNN Prediction time : 209.27781553399996 seconds
+Accuracy : 0.8085
+AUC : 0.8432873421705982
+----Test with HOG features (1, 1) cells per block----
+(8000, 1152)
+(8000,)
+(2000, 1152)
+(2000,)
+2432
+737
+SVM Trained in 18.640167899000062 seconds
+SVM Prediction time : 8.422460556000033 seconds
+Accuracy : 0.9845
+AUC : 0.9982993690584006
+Confusion Matrix : [[1250   13]
+ [  18  719]]
+KNN Trained in 0.3445287619999817 seconds
+KNN Prediction time : 64.6877926950001 seconds
+Accuracy : 0.744
+AUC : 0.7743312158705502
+----Test with HOG features (1, 1) cells per block on full data----
+Processed train data in 1395.9781411369997 seconds
+Processed test data in 206.44302577400003 seconds
+(72114, 1152)
+(72114,)
+(9457, 1152)
+(9457,)
+22114
+3457
+SVM Trained in 1489.5277001340005 seconds
+SVM Prediction time : 158.22576514699995 seconds
+Accuracy : 0.9910119488209792
+AUC : 0.999342927393694
+Confusion Matrix : [[5960   40]
+ [  45 3412]]
+----Test with HOG features (1, 1) cells per block on larger train subset and full test data----
+Processed train data in 747.1305171079994 seconds
+Processed test data in 184.07955877600034 seconds
+(37828, 1152)
+(37828,)
+(9457, 1152)
+(9457,)
+11575
+3457
+SVM Trained in 519.1034343800002 seconds
+SVM Prediction time : 108.3348156510001 seconds
+Accuracy : 0.9890028550280215
+AUC : 0.9991938578729148
+Confusion Matrix : [[5953   47]
