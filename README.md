@@ -10,7 +10,7 @@ More details about the approach and score are available in the project report.
 -------------------------------------------------------------------------------------------------------
 **Contents**
 - [Project Report](https://github.com/abhivij/pedestrian-image-classification/blob/main/ProjectReport_IndividualComponent.pdf)
-- [Code main](https://github.com/abhivij/pedestrian-image-classification/blob/main/cv_project_individual.py)
-- [Code to create figures for the report](https://github.com/abhivij/pedestrian-image-classification/blob/main/figures.py)
-- [Results](https://github.com/abhivij/pedestrian-image-classification/blob/main/results.txt)
-- [Data](https://github.com/abhivij/pedestrian-image-classification/tree/main/Individual_Component)
+- [Main Code](https://github.com/abhivij/pedestrian-image-classification/blob/main/cv_project_individual.py)
+- [Code for Generating Report Figures](https://github.com/abhivij/pedestrian-image-classification/blob/main/figures.py)
+- [Evaluation Results](https://github.com/abhivij/pedestrian-image-classification/blob/main/results.txt)
+- [Data Files](https://github.com/abhivij/pedestrian-image-classification/tree/main/Individual_Component)
