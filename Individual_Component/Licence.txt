@@ -1,0 +1,8 @@
+This dataset ('Licensed Material') is made available to the scientific community for non-commercial research purposes such as academic research, teaching, scientific publications or personal experimentation. Permission is granted by National ICT Australia Limited (NICTA) to you (the 'Licensee') to use, copy and distribute the Licensed Material in accordance with the following terms and conditions:
+
+   1. Licensee must include a reference to NICTA and the following publication in any published work that makes use of the Licensed Material: G. Overett, L. Petersson, N. Brewer, L. Andersson and N. Pettersson, A New Pedestrian Dataset for Supervised Learning, In IEEE Intelligent Vehicles Symposium, 2008.
+   2. If Licensee alters the content of the Licensed Material or creates any derivative work, Licensee must include in the altered Licensed Material or derivative work prominent notices to ensure that any recipients know that they are not receiving the original Licensed Material.
+   3. Licensee may not use or distribute the Licensed Material or any derivative work for commercial purposes including but not limited to, licensing or selling the Licensed Material or using the Licensed Material for commercial gain.
+   4. The Licensed Material is provided 'AS IS', without any express or implied warranties. NICTA does not accept any responsibility for errors or omissions in the Licensed Material.
+   5. This original license notice must be retained in all copies or derivatives of the Licensed Material.
+   6. All rights not expressly granted to the Licensee are reserved by NICTA.
